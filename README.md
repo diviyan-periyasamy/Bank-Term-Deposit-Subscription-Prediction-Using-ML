@@ -1,2 +1,1 @@
-# CM2604
-Machine Learning Coursework
+ Machine Learning Coursework
